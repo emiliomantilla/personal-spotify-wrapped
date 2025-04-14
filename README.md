@@ -1,1 +1,1 @@
-# mood-based-playlist-generator
+# personal-spotify-wrapped
