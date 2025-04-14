@@ -1,0 +1,19 @@
+# 1. macOS-specific junk files
+.DS_Store
+
+# 2. Python bytecode
+__pycache__/
+*.pyc
+
+# 3. Virtual environment folder
+spotify_env/
+
+# 4. CSV data (don't want .csv files in your repo)
+*.csv
+
+# 5. Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 6. Any other patterns you want to ignore
+# (You can add them here)
+
