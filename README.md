@@ -6,7 +6,7 @@ pip install --upgrade pip
 
 ## Live Demo
 
-You can explore your own listening history right now—no local install required:
+You can explore your own listening history right now—no local install required or download the zip file in the data folder and use it to see the app in action:
 
 🔗 **Streamlit App:**  
 https://emiliomantilla-personal-spotify-wrapped-appdashboard-9l0641.streamlit.app
